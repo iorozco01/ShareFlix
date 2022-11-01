@@ -1,0 +1,16 @@
+{
+    "name": "Test",
+    "media": [
+        {
+            "name": "MovieName",
+            "genre": "MovieGenre",
+            "media type": "movie"
+        },
+        {
+            "name": "SeriesName",
+            "genre": "SeriesGenre",
+            "length": 10,
+            "media type": "series"
+        }
+    ]
+}

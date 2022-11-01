@@ -1,0 +1,16 @@
+{
+    "name": "Phase 4 List",
+    "media": [
+        {
+            "name": "The Batman",
+            "genre": "Superhero",
+            "media type": "movie"
+        },
+        {
+            "name": "Family guy",
+            "genre": "Animation",
+            "length": 123456789,
+            "media type": "series"
+        }
+    ]
+}

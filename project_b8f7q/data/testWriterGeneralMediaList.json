@@ -1,0 +1,16 @@
+{
+    "name": "My work room",
+    "media": [
+        {
+            "name": "Saw",
+            "genre": "Horror",
+            "media type": "movie"
+        },
+        {
+            "name": "Wandavision",
+            "genre": "SuperHeroes",
+            "length": 10,
+            "media type": "series"
+        }
+    ]
+}

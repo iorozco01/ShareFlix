@@ -1,0 +1,21 @@
+{
+    "name": "Dupe Check",
+    "media": [
+        {
+            "name": "Family Guy",
+            "genre": "Animation",
+            "length": 12345,
+            "media type": "series"
+        },
+        {
+            "name": "Venom",
+            "genre": "superhero",
+            "media type": "movie"
+        },
+        {
+            "name": "Finding nemo",
+            "genre": "animation",
+            "media type": "movie"
+        }
+    ]
+}

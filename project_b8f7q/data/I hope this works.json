@@ -1,0 +1,16 @@
+{
+    "name": "I hope this works",
+    "media": [
+        {
+            "name": "The Journey",
+            "genre": "Action",
+            "media type": "movie"
+        },
+        {
+            "name": "Snowpiercer",
+            "genre": "Dystopian",
+            "length": 48,
+            "media type": "series"
+        }
+    ]
+}

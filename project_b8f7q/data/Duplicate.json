@@ -1,0 +1,27 @@
+{
+    "name": "Duplicate",
+    "media": [
+        {
+            "name": "Family Guy",
+            "genre": "Animation",
+            "length": 12345,
+            "media type": "series"
+        },
+        {
+            "name": "Schumacher",
+            "genre": "Documentary",
+            "media type": "movie"
+        },
+        {
+            "name": "Family Guy",
+            "genre": "Animation",
+            "length": 12345,
+            "media type": "series"
+        },
+        {
+            "name": "Saw",
+            "genre": "Horror",
+            "media type": "movie"
+        }
+    ]
+}
